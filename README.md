@@ -4,11 +4,11 @@
 
 
 <p align="left">${\textsf{\color{#D9583F}  credits to my sweet angel @AmbitionsAtDawn for the code <3  }}$
-<p align="center">${\textsf{\color{#D96D3F}  Elle + Ellie , , ♡ }}$
+<p align="center">${\textsf{\color{#D96D3F} mikey / eddie , , ♡ }}$
    
 ***
    
-<p align="center">${\textsf{\color{#D97F3F}  DNI DOUBLES + DO NOT SEXUALIZE US PLEASE.  }}$
+<p align="center">${\textsf{\color{#D97F3F}  DNI DOUBLES !!  }}$
 <p align="center">${\textsf{\color{#D9943F}  "11:59 PM[two Time / C00lk1d iwyoc] whispers: W-wow, senpai..~ I-I-I-I didn't know..y-y-you thought of me like
   }}$
    <p align="center">${\textsf{\color{#D9943F} that, nya**** *Blushes cutely* M-me too!" - my gf
