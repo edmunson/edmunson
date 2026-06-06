@@ -9,9 +9,7 @@
 ***
    
 <p align="center">${\textsf{\color{#D97F3F}  DNI DOUBLES !!  }}$
-<p align="center">${\textsf{\color{#D9943F}  "W-wow, senpai..~ I-I-I-I didn't know..y-y-you thought of me like
-  }}$
-   <p align="center">${\textsf{\color{#D9943F} that, nya**** *Blushes cutely* M-me too!" - my gf
+<p align="center">${\textsf{\color{#D9943F}  "W-wow, senpai..~ I-I-I-I didn't know..y-y-you thought of me like that, nya**** *Blushes cutely* M-me too!" - my gf
       }}$
 <p align="center">${\textsf{\color{#D99E3F}  helluva/hazbin/4saken dni unless gf }}$
 <p align="center">${\textsf{\color{#D9A33F}  MDD/GAD/OCD/PTSD ,int with caution + care ♡ }}$
