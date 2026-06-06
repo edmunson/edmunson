@@ -9,7 +9,7 @@
 ***
    
 <p align="center">${\textsf{\color{#D97F3F}  DNI DOUBLES !!  }}$
-<p align="center">${\textsf{\color{#D9943F}  "11:59 PM[two Time / C00lk1d iwyoc] whispers: W-wow, senpai..~ I-I-I-I didn't know..y-y-you thought of me like
+<p align="center">${\textsf{\color{#D9943F}  "W-wow, senpai..~ I-I-I-I didn't know..y-y-you thought of me like
   }}$
    <p align="center">${\textsf{\color{#D9943F} that, nya**** *Blushes cutely* M-me too!" - my gf
       }}$
