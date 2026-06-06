@@ -16,7 +16,7 @@
 <p align="center">${\textsf{\color{#F5BFBF}  MDD/GAD/OCD/PTSD ,int with caution + care ♡ }}$
 <p align="center">${\textsf{\color{#F6CECE}  check strawpage / pronouns page! }}$
 
-<p align='center">${\textsf{\color{#FFDDDD} sign ata! }}$
+<p align="center">${\textsf{\color{#FFDDDD} sign ata! }}$
    </a>
 </p>
 <img width="362" height="246" alt="image" src="https://media1.tenor.com/m/O3ZYh_7X8mwAAAAd/eddie-munson.gif<img width="640" /> 
