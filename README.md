@@ -22,7 +22,8 @@
 </p>
 <img width="500" height="211" alt="image" src="https://media1.tenor.com/m/uExlVsA-zW4AAAAd/forsaken-roblox.gif" />
 <img width="362" height="246" alt="image" src="https://media1.tenor.com/m/O3ZYh_7X8mwAAAAd/eddie-munson.gif<img width="640" /> 
-<p align="right">${\textsf{\color{#D9583F} nope
+
+<p align="left">${\textsf{\color{#D9583F} nope
 
 
 
