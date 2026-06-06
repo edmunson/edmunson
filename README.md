@@ -1,4 +1,4 @@
-src="https://morbidlybeautiful.com/wp-content/uploads/2022/07/eddie8-1.jpg<img width="1000" height="753" alt="image" src="https://github.com/user-attachments/assets/599fa471-2dbb-42ef-9996-44a415675d45" />
+<img width="1000" height="753" alt="image" src="https://github.com/user-attachments/assets/599fa471-2dbb-42ef-9996-44a415675d45" />
 " />
 
 
