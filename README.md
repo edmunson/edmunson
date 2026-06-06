@@ -11,7 +11,7 @@
 <p align="center">${\textsf{\color{#D97F3F}  DNI DOUBLES + DO NOT SEXUALIZE US PLEASE.  }}$
 <p align="center">${\textsf{\color{#D9943F}  "11:59 PM[two Time / C00lk1d iwyoc] whispers: W-wow, senpai..~ I-I-I-I didn't know..y-y-you thought of me like
   }}$
-   <p align="center">${\textsf{\color{#D9943F} that, nya**** *Blushes cutely* M-me too!
+   <p align="center">${\textsf{\color{#D9943F} that, nya**** *Blushes cutely* M-me too!" - my gf
       }}$
 <p align="center">${\textsf{\color{#D99E3F}  DSMP/QSMP; IWEC ,, DW; IWC . }}$
 <p align="center">${\textsf{\color{#D9A33F}  idrc who ints nonetheless . }}$
