@@ -14,7 +14,7 @@
    <p align="center">${\textsf{\color{#D9943F} that, nya**** *Blushes cutely* M-me too!" - my gf
       }}$
 <p align="center">${\textsf{\color{#D99E3F}  4saken dni unless gf }}$
-<p align="center">${\textsf{\color{#D9A33F}  MDD/OCD/GAD, int with caution + care }}$
+<p align="center">${\textsf{\color{#D9A33F}  MDD/GAD/OCD/PTSD ,int with caution + care ♡ }}$
 <p align="center">${\textsf{\color{#D9B83F}  check strawpage / pronouns page! }}$
 
 <p align="center">${\textsf{\color{#D9BF3F} sign ata! }}$
