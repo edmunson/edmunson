@@ -4,7 +4,7 @@
 
 
 <p align="left">${\textsf{\color{#A42626}  credits to my sweet angel @spawndrawzz for the code <3  }}$
-<p align="center">${\textsf{\color{#B33636} mikey / eddie , , ♡ }}$
+<p align="center">${\textsf{\color{#B33636} eddie / mikey , , ♡ }}$
    
 ***
    
