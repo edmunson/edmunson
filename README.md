@@ -13,7 +13,7 @@
       }}$
 <p align="center">${\textsf{\color{#ED8686}  HELLUVA/HAZBIN/ANYTHING VIVZIEPOP DNI. }}$
    <p align="center">${\textsf{\color{#EBA5A5} FORSAKEN DNI UNLESS GF. }}$
-<p align="center">${\textsf{\color{#F5BFBF}  MDD/GAD/OCD/PTSD/AVPD, int with caution + care ♡ }}$
+<p align="center">${\textsf{\color{#F5BFBF}  “we both have aids” “ouu shii..” }}$
 <p align="center">${\textsf{\color{#F6CECE}  check strawpage / pronouns page! }}$
 
 <p align="center">${\textsf{\color{#FFDDDD} sign ata! }}$
