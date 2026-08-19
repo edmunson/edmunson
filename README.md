@@ -1,4 +1,4 @@
-<img width="1000" height="753" alt="image" src="https://images.steamusercontent.com/ugc/2458481611080959470/37BCEEEF0AA4059DF99347D9A37C1A03D10D8378/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true<img width="637" height="358" alt="image" src="https://github.com/user-attachments/assets/c43c9287-2e10-4860-abb2-db5ae7f64dea" />
+<img width="637" height="358" alt="image" src="https://github.com/user-attachments/assets/c43c9287-2e10-4860-abb2-db5ae7f64dea" />
 " />
 
 
