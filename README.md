@@ -10,11 +10,11 @@
 <p align="center">${\textsf{\color{#924A26}  "W-wow, senpai..~ I-I-I-I didn't know..y-y-you thought of me like that, nya**** *Blushes cutely* M-me too!" - my gf
       }}$
 <p align="center">${\textsf{\color{#7C3B1B}  HELLUVA/HAZBIN/ANYTHING VIVZIEPOP DNI. }}$
-   <p align="center">${\textsf{\color{#743413} FORSAKEN DNI UNLESS GF. }}$
-<p align="center">${\textsf{\color{#5B270D}  “we both have aids” “ouu shii..” }}$
-<p align="center">${\textsf{\color{#5B270D}  check strawpage / pronouns page! }}$
+   <p align="center">${\textsf{\color{#743413} check strawpage / pronouns page ! }}$
+<p align="center">${\textsf{\color{#5B270D}  sign ata 👀 .” }}$
+<p align="center">${\textsf{\color{#5B270D}  text }}$
 
-<p align="center">${\textsf{\color{#471D08} sign ata! }}$
+<p align="center">${\textsf{\color{#471D08} text }}$
    </a>
 </p>
 <img width="362" height="246" alt="image" src="https://media1.tenor.com/m/O3ZYh_7X8mwAAAAd/eddie-munson.gif<img width="640" /> 
