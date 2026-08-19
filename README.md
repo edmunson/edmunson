@@ -1,6 +1,4 @@
 <img width="637" height="358" alt="image" src="https://github.com/user-attachments/assets/c43c9287-2e10-4860-abb2-db5ae7f64dea" />
-" />
-
 
 
 <p align="left">${\textsf{\color{#A42626}  credits to my sweet angel @Washingtons-righthandman for the code <3  }}$
