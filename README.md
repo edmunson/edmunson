@@ -6,11 +6,11 @@
    
 ***
    
-<p align="center">${\textsf{\color{#AA5A33}   "W-wow, senpai..~ I-I-I-I didn't know..y-y-you thought of me like that, nya**** *Blushes cutely* M-me too!" - my gf  }}$
-<p align="center">${\textsf{\color{#C44A0D}  DNI DOUBLES! }}$
+<p align="center">${\textsf{\color{#C44A0D}   "W-wow, senpai..~ I-I-I-I didn't know..y-y-you thought of me like that, nya**** *Blushes cutely* M-me too!" - my gf  }}$
+<p align="center">${\textsf{\color{#AC3D06}  DNI DOUBLES! }}$
 <p align="center">${\textsf{\color{#8B3003}  HELLUVA/HAZBIN/ANYTHING VIVZIEPOP DNI. }}$
-   <p align="center">${\textsf{\color{#743413} check strawpage / pronouns page ! }}$
-<p align="center">${\textsf{\color{#743413}  sign ata 👀  }}$
+   <p align="center">${\textsf{\color{#782A06} check strawpage / pronouns page ! }}$
+<p align="center">${\textsf{\color{#6B2405}  sign ata 👀  }}$
 
 </p>
 <img width="362" height="246" alt="image" src="https://media1.tenor.com/m/Vziv7xx63F4AAAAC/gale-gale-dekarios.gif<img width="498"
