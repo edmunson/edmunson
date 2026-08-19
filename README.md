@@ -10,7 +10,7 @@
 <p align="center">${\textsf{\color{#924A26}  "W-wow, senpai..~ I-I-I-I didn't know..y-y-you thought of me like that, nya**** *Blushes cutely* M-me too!" - my gf
       }}$
 <p align="center">${\textsf{\color{#7C3B1B}  HELLUVA/HAZBIN/ANYTHING VIVZIEPOP DNI. }}$
-   <p align="center">${\textsf{\color{#EBA5A5} FORSAKEN DNI UNLESS GF. }}$
+   <p align="center">${\textsf{\color{#743413} FORSAKEN DNI UNLESS GF. }}$
 <p align="center">${\textsf{\color{#7C3B1B}  “we both have aids” “ouu shii..” }}$
 <p align="center">${\textsf{\color{#5B270D}  check strawpage / pronouns page! }}$
 
