@@ -1,4 +1,4 @@
-<img width="1000" height="753" alt="image" https://bg3.wiki/w/images/2/27/Gale_Professor_Epilogue.png :
+< https://bg3.wiki/w/images/2/27/Gale_Professor_Epilogue.png :
 
 
 
