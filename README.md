@@ -1,14 +1,14 @@
 <img width="637" height="358" alt="image" src="https://github.com/user-attachments/assets/c43c9287-2e10-4860-abb2-db5ae7f64dea" />
 
 
-<p align="left">${\textsf{\color{#EA844F}  credits to my sweet angel @Washingtons-righthandman for the code <3  }}$
-<p align="center">${\textsf{\color{#C26B3F} eddie / mikey , , ♡ }}$
+<p align="left">${\textsf{\color{#E57339}  credits to my sweet angel @Washingtons-righthandman for the code <3  }}$
+<p align="center">${\textsf{\color{#D25B20} eddie / mikey , , ♡ }}$
    
 ***
    
 <p align="center">${\textsf{\color{#AA5A33}   "W-wow, senpai..~ I-I-I-I didn't know..y-y-you thought of me like that, nya**** *Blushes cutely* M-me too!" - my gf  }}$
-<p align="center">${\textsf{\color{#924A26}  DNI DOUBLES! }}$
-<p align="center">${\textsf{\color{#7C3B1B}  HELLUVA/HAZBIN/ANYTHING VIVZIEPOP DNI. }}$
+<p align="center">${\textsf{\color{#C44A0D}  DNI DOUBLES! }}$
+<p align="center">${\textsf{\color{#8B3003}  HELLUVA/HAZBIN/ANYTHING VIVZIEPOP DNI. }}$
    <p align="center">${\textsf{\color{#743413} check strawpage / pronouns page ! }}$
 <p align="center">${\textsf{\color{#743413}  sign ata 👀  }}$
 
