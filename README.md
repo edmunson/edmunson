@@ -11,10 +11,7 @@
 <p align="center">${\textsf{\color{#7C3B1B}  HELLUVA/HAZBIN/ANYTHING VIVZIEPOP DNI. }}$
    <p align="center">${\textsf{\color{#743413} check strawpage / pronouns page ! }}$
 <p align="center">${\textsf{\color{#743413}  sign ata 👀  }}$
-<p align="center">${\textsf{\color{#5B270D}  text }}$
 
-<p align="center">${\textsf{\color{#471D08} text }}$
-   </a>
 </p>
 <img width="362" height="246" alt="image" src="https://media1.tenor.com/m/O3ZYh_7X8mwAAAAd/eddie-munson.gif<img width="640" /> 
 
