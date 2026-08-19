@@ -13,7 +13,8 @@
 <p align="center">${\textsf{\color{#743413}  sign ata 👀  }}$
 
 </p>
-<img width="362" height="246" alt="image" src="https://media1.tenor.com/m/O3ZYh_7X8mwAAAAd/eddie-munson.gif<img width="640" /> 
+<img width="362" height="246" alt="image" src="https://media1.tenor.com/m/Vziv7xx63F4AAAAC/gale-gale-dekarios.gif<img width="498"
+<img width="640" /> 
 
 
 <p align="center"> bottom text
