@@ -6,9 +6,8 @@
    
 ***
    
-<p align="center">${\textsf{\color{#AA5A33}  DNI DOUBLES !!  }}$
-<p align="center">${\textsf{\color{#924A26}  "W-wow, senpai..~ I-I-I-I didn't know..y-y-you thought of me like that, nya**** *Blushes cutely* M-me too!" - my gf
-      }}$
+<p align="center">${\textsf{\color{#AA5A33}   "W-wow, senpai..~ I-I-I-I didn't know..y-y-you thought of me like that, nya**** *Blushes cutely* M-me too!" - my gf  }}$
+<p align="center">${\textsf{\color{#924A26}  DNI DOUBLES! }}$
 <p align="center">${\textsf{\color{#7C3B1B}  HELLUVA/HAZBIN/ANYTHING VIVZIEPOP DNI. }}$
    <p align="center">${\textsf{\color{#743413} check strawpage / pronouns page ! }}$
 <p align="center">${\textsf{\color{#743413}  sign ata 👀  }}$
