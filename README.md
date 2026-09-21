@@ -7,7 +7,7 @@
 ***
    
 <p align="center">${\textsf{\color{#C44A0D}   i friggen love baldurs gate 3 }}$
-<p align="center">${\textsf{\color{#AC3D06}  DNI DOUBLES! }}$
+<p align="center">${\textsf{\color{#AC3D06}  @pt-hall-of-media- pt’s eddie munson }}$
 <p align="center">${\textsf{\color{#8B3003}  HELLUVA/HAZBIN/ANYTHING VIVZIEPOP DNI. }}$
    <p align="center">${\textsf{\color{#782A06} check strawpage / pronouns page / sign ata! }}$
 
