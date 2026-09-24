@@ -12,8 +12,8 @@
    <p align="center">${\textsf{\color{#8F1212} check strawpage / pronouns page / sign ata! }}$
 
 </p>
-<img width="362" height="246" alt="image" src="https://i.redd.it/mmqzxkq747de1.gif<img width="298" height="198" alt="image" src="https://media1.tenor.com/m/vcHcdpFTv5oAAAAd/shadow-milk-cookie-candy-apple-cookie.gif<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/1cccb58b-a43a-4cfe-a51f-5d2c3a8aacd4" />
--" />
+<img width="362" height="246" alt="image" src="https://media1.tenor.com/m/vcHcdpFTv5oAAAAd/shadow-milk-cookie-candy-apple-cookie.gif<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/b3b46a5f-aae4-480f-aaca-d2e6864b5d3c" />
+" />
 
 <img width="640" /> 
 
