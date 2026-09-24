@@ -1,7 +1,7 @@
 <img width="637" height="358" alt="image" src="https://cdn.mos.cms.futurecdn.net/3oEVMhj52aAd8gcxf9HmCj-1200-80.png.webp" />
 
 
-<p align="left">${\textsf{\color{#E57339}  credits to @Washingtons-righthandman for the code <3  }}$
+<p align="left">${\textsf{\color{#E57339}  credits to @commandsatdusk for the code <3  }}$
 <p align="center">${\textsf{\color{#D25B20} eddie / mikey , , ♡ }}$
    
 ***
