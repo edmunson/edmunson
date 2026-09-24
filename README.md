@@ -2,7 +2,7 @@
 
 
 <p align="left">${\textsf{\color{#D12A2A}  credits to @commandsatdusk for the code <3  }}$
-<p align="center">${\textsf{\color{#D12A2A} eddie / mikey , , ♡ }}$
+<p align="center">${\textsf{\color{#D12A2A} candy / mikey , , ♡ }}$
    
 ***
    
