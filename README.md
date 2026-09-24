@@ -6,8 +6,8 @@
    
 ***
    
-<p align="center">${\textsf{\color{#BC2525}   i friggen love baldurs gate 3 }}$
-<p align="center">${\textsf{\color{#AF2020}  eddie munson, wendy testaburger kin }}$
+<p align="center">${\textsf{\color{#BC2525}   i friggen love baldurs gate 3 and deltarune }}$
+<p align="center">${\textsf{\color{#AF2020}  eddie munson, candy apple cookie, wendy testaburger kin }}$
 <p align="center">${\textsf{\color{#9D1A1A}  HELLUVA/HAZBIN/ANYTHING VIVZIEPOP DNI. }}$
    <p align="center">${\textsf{\color{#8F1212} check strawpage / pronouns page / sign ata! }}$
 
