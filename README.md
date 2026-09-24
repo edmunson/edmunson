@@ -1,4 +1,4 @@
-<img width="637" height="358" alt="image"  width="474" height="374" alt="image" src="https://github.com/user-attachments/assets/35d94ce6-83de-4464-a7cb-1da29bbcc281" />
+<img width="637" height="430" alt="image" alt="image" src="https://preview.redd.it/black-sapphire-candy-apple-and-shadowmilk-theatre-show-by-v0-f5icyb52fxle1.jpeg?width=1080&crop=smart&auto=webp&s=24787d2ed10396e4427d8b762d1de3c34287942d" />
 
 
 <p align="left">${\textsf{\color{#D12A2A}  credits to @commandsatdusk for the code <3  }}$
