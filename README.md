@@ -1,7 +1,7 @@
 <img width="637" height="358" alt="image"  width="474" height="374" alt="image" src="https://github.com/user-attachments/assets/35d94ce6-83de-4464-a7cb-1da29bbcc281" />
 
 
-<p align="left">${\textsf{\color{#E57339}  credits to @commandsatdusk for the code <3  }}$
+<p align="left">${\textsf{\color{#D12A2A}  credits to @commandsatdusk for the code <3  }}$
 <p align="center">${\textsf{\color{#D12A2A} eddie / mikey , , ♡ }}$
    
 ***
