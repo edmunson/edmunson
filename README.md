@@ -1,4 +1,5 @@
-<img width="637" height="358" alt="image" src="https://cdn.mos.cms.futurecdn.net/3oEVMhj52aAd8gcxf9HmCj-1200-80.png.webp" />
+<img width="637" height="358" alt="image" src="https://i.pinimg.com/474x/6a/37/15/6a37152488eeac0a9acd947e1c6d97a3.jpg<img width="474" height="374" alt="image" src="https://github.com/user-attachments/assets/35d94ce6-83de-4464-a7cb-1da29bbcc281" />
+" />
 
 
 <p align="left">${\textsf{\color{#E57339}  credits to @commandsatdusk for the code <3  }}$
