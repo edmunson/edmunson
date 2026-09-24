@@ -13,7 +13,6 @@
 
 </p>
 <img width="362" height="246" alt="image" src="https://media1.tenor.com/m/vcHcdpFTv5oAAAAd/shadow-milk-cookie-candy-apple-cookie.gif<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/b3b46a5f-aae4-480f-aaca-d2e6864b5d3c" />
-" />
 
 <img width="640" /> 
 
